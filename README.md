@@ -139,5 +139,4 @@ if __name__=="__main__":
 ```anaconda=
 python main.py --image --source C:\Users\user\yolov9-onnx\carplate\train --weights yolov9-c.onnx --classes metadata.yaml
 ```
-Result：
-![image](https://hackmd.io/_uploads/BJkfmAPiel.png)
+
