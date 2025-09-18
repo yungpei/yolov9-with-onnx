@@ -1,8 +1,4 @@
 # YOLOv9 with ONNX & ONNXRuntime 練習
-###### tags: `yolo` `onnxruntime` `小菜雞`
-[遇到的問題 #1](https://chatgpt.com/share/68ca4734-97f4-800e-93c1-9d55e9fdb028)
->過程中遇到的問題，請居批踢協助。
-
 [ONNX 練習](https://github.com/danielsyahputra/yolov9-onnx)
 
 ## Anaconda 新建環境
